@@ -1,0 +1,10 @@
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\node\PackageDeclaration.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\node\TypeDeclaration.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\parse\JvmLispParserBaseVisitor.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\node\SyntaxNode.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\parse\JvmLispParserVisitor.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\node\Declaration.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\parse\JvmLispParserVisitorImpl.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\parse\JvmLispLexer.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\node\CompilationUnit.java
+E:\workspace\jvm-lisp\compiler-ast\src\main\java\org\daida\lisp\compiler\ast\parse\JvmLispParser.java
